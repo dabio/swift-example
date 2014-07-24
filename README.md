@@ -11,7 +11,7 @@ Shows a basic UITableViewController and a UIViewController for the details using
 Get the repository and open with Xcode.
 
 ```bash
-git clone git@github.com:dabio/swift-example.git
-cd swift-example/
-open github.xcodeproj
+$ git clone git@github.com:dabio/swift-example.git
+$ cd swift-example/
+$ open github.xcodeproj
 ```
